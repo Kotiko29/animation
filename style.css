@@ -99,7 +99,7 @@ div.spinning {
 }
 		85% {
 		background: #fee140;
-		ox-shadow: 0 -400px 300px -300px #fa709a inset;
+		box-shadow: 0 -400px 300px -300px #fa709a inset;
 }
 		100% {
 		background: #b721ff;
